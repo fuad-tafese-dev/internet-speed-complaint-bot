@@ -24,7 +24,7 @@ Installation
 Clone this repo:
 
 bash
-git clone https://github.com/yourusername/SpeedTweeter.git
+git clone [https://github.com/yourusername/SpeedTweeter.git](https://github.com/fuad-tafese-dev/internet-speed-complaint-bot)
 cd SpeedTweeter
 Install dependencies:
 
@@ -68,8 +68,5 @@ Schedule daily speed checks
 
 Add ISP's Twitter handle automatically
 
-Generate speed graphs over time
-
-https://img.shields.io/badge/View%2520on-GitHub-blue?logo=github
 
 Made with ❤️ and 😤 at slow internet speeds
